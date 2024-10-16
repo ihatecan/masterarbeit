@@ -1,0 +1,11 @@
+Bottleneck
+torch
+scipy
+numpy
+statsmodels
+pandas
+scikit-learn
+seaborn
+plotly
+fuzzywuzzy
+pgeocode
